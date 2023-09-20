@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class SumCalculator {
+public class SumCalculatorTest {
     org.example.SumCalculator calculator;
 
     @BeforeEach
